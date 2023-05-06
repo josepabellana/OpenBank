@@ -9,4 +9,3 @@ Things:
 - Certificates
 - Nordigen API?
 - Build the API?
-- 
