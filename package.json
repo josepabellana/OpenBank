@@ -6,6 +6,7 @@
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "commit": "git add . && git commit -m 'x' && git push",
     "test": "vitest",
