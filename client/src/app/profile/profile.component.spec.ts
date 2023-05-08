@@ -1,6 +1,8 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
+import { AuthService } from '@auth0/auth0-angular';
 import { ProfileComponent } from './profile.component';
+
+var auth:AuthService;
 
 describe('ProfileComponent', () => {
   let component: ProfileComponent;
@@ -11,6 +13,8 @@ describe('ProfileComponent', () => {
       declarations: [ ProfileComponent ]
     })
     .compileComponents();
+
+    auth.loginWithRedirect();
 
     fixture = TestBed.createComponent(ProfileComponent);
     component = fixture.componentInstance;
@@ -23,6 +27,6 @@ describe('ProfileComponent', () => {
   
 
   it('Should disconnect the user when user logout is pressed',() => {
-    
+
   });
 });
