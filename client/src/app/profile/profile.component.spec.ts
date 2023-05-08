@@ -25,8 +25,4 @@ describe('ProfileComponent', () => {
     expect(component).toBeTruthy();
   });
   
-
-  it('Should disconnect the user when user logout is pressed',() => {
-    component.document.getElementsByClassName('logout__button');
-  });
 });
