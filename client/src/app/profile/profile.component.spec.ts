@@ -20,4 +20,9 @@ describe('ProfileComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+  
+
+  it('Should disconnect the user when user logout is pressed',() => {
+    
+  });
 });
