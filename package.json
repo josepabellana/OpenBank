@@ -3,7 +3,7 @@
     "request": "^2.88.2"
   },
   "name": "openbank",
-  "description": "Understand PSD2 Sandbox",
+  "description": "Understand PSD2 Sandbox connections",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
