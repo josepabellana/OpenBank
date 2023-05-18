@@ -3,7 +3,7 @@
     "request": "^2.88.2"
   },
   "name": "openbank",
-  "description": "",
+  "description": "Understand PSD2 Sandbox",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/josepabellana/OpenBank.git"
   },
-  "author": "",
+  "author": "josep abellana",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/josepabellana/OpenBank/issues"
