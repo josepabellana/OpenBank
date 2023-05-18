@@ -9,7 +9,6 @@ https://www.pingidentity.com/en/resources/blog/post/eidas-certificates-identify-
 .Caixabank example: 
 https://hub-i.redsys.es:16443/psd2-doc/DOC_TPP_v.1.8.5_caixabank_vCastellano.pdf
 
-
 Things: 
 - OAUTH2
 - Certificates
