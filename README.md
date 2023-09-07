@@ -1,5 +1,6 @@
 # OpenBank
 
+This repository was used to make the first steps for the creation of a tpp. 
 
 Quick Links:
 
